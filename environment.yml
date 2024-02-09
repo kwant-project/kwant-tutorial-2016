@@ -1,8 +1,8 @@
 name: kwant-tutorial
 
 channels:
-    - basnijholt
+    - conda-forge
 
 dependencies:
-  - python=3.4
+  - python=3.12
   - kwant
